@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nihar Ranjan Sahu
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Full Stack Development with MERN specialization from NxtWave.
+- 💞️ I’m looking to collaborate on Front-End or Full Stack Projects and actively looking for opportunities to exercise my coding knowledge.
+- 📫 Contact No: 9040113807, E-mail: nihar.ranjansahu95@gmail.com
